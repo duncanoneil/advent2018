@@ -1,0 +1,9 @@
+[package]
+name = "advent-of-code-2018"
+version = "0.1.0"
+authors = ["Duncan ONeil <duncan.oneil@gmail.com>"]
+
+[dependencies]
+failure = "0.1"
+structopt = "0.1"
+structopt-derive = "0.1"
